@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maj!
+# 👋 HELLLLLOOOOO, I'm Maj!
 
 ### A motivated junior developer from Slovenia 🚀
 
