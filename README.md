@@ -46,7 +46,6 @@ I enjoy playing football in my free time — coding gives me the same feeling of
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
 </div>
 
-![Java](https://img.shields.io/badge/Java-orange?logo=java)  
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)  
 ![HTML](https://img.shields.io/badge/HTML5-e34c26?logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
