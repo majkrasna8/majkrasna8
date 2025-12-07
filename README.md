@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Maj!
 
-<!--
-**majkrasna8/majkrasna8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A motivated junior developer from Slovenia 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Work & Projects
+- ✈️ I’m currently working on: **my first GitHub projects**
+- 🧩 I’m looking to collaborate on: **beginner-friendly open-source projects**
+- 🤝 I’m looking for help with: **improving my Java & web development skills**
+- 🌱 I’m currently learning: **HTML, CSS, Java, Git & GitHub**
+
+---
+
+## 💬 Ask me about
+- ⚽ Football  
+- 💻 Programming basics  
+- 🧠 Java & HTML progress  
+- 🌍 My journey to becoming a developer  
+
+---
+
+## 📫 How to reach me  
+- Email: **majkrasna@gmail.com**
+
+---
+
+## 📁 All of my projects  
+👉 https://github.com/majkrasna8  
+
+---
+
+## 📝 Fun fact  
+I enjoy playing football in my free time — coding gives me the same feeling of progress as training! ⚽💻
+
+---
+
+## 📚 About Me  
+📚 I'm currently learning **Java**  
+🎯 My goal: **to become a programmer**
+
+---
+
+## 💻 I code with Java
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+</div>
