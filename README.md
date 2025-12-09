@@ -1,22 +1,22 @@
-# 👋 HELLLLLOOOOO, I'm Maj!
+# Heloo, I'm Maj!
 
-### A motivated junior developer from Slovenia 🚀
+### A motivated junior developer from Slovenia 
 
 ---
 
 ## 🛠️ Work & Projects
-- ✈️ I’m currently working on: **my first GitHub projects**
-- 🧩 I’m looking to collaborate on: **beginner-friendly open-source projects**
-- 🤝 I’m looking for help with: **improving my Java & web development skills**
-- 🌱 I’m currently learning: **HTML, CSS, Java, Git & GitHub**
+-  I’m currently working on: **my first GitHub projects**
+-  I’m looking to collaborate on: **beginner-friendly open-source projects**
+-  I’m looking for help with: **improving my Java & web development skills**
+-  I’m currently learning: **HTML, CSS, Java, Git & GitHub**
 
 ---
 
-## 💬 Ask me about
-- ⚽ Football  
-- 💻 Programming basics  
-- 🧠 Java & HTML progress  
-- 🌍 My journey to becoming a developer  
+## Ask me about
+- Football  
+- Programming basics  
+- Java & HTML progress  
+- My journey to becoming a developer  
 
 ---
 
@@ -35,9 +35,9 @@ I enjoy playing football in my free time — coding gives me the same feeling of
 
 ---
 
-## 📚 About Me  
-📚 I'm currently learning **Java**  
-🎯 My goal: **to become a programmer**
+##  About Me  
+ I'm currently learning **Java**  
+My goal: **to become a programmer**
 
 ---
 
